@@ -15,7 +15,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-r from-pink-500 to-violet-500 blur-lg opacity-50 rounded-full"></div>
               <h1 className="relative text-5xl font-bold text-white mb-2 tracking-tight px-6 py-2">
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-300">
-                  Sonic Waves
+                  Musico 777
                 </span>
               </h1>
             </div>
